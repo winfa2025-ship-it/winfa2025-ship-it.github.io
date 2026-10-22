@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://winfa2025-ship-it.github.io/sitemap.xml
